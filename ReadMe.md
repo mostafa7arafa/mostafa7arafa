@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **a.mostafa190@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ruBS-4WpwYwM9Z2FYTi9nJJU4evv9K2V/view?usp=sharing](https://drive.google.com/file/d/1ruBS-4WpwYwM9Z2FYTi9nJJU4evv9K2V/view?usp=sharing)
+- 📄 Know about my experiences [my cv](https://drive.google.com/file/d/1WnjkKeeAxajsQ3ZRDQc_bDOZTNUwHOq-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
