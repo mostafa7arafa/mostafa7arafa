@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa7arafa&label=Profile%20views&color=0e75b6&style=flat" alt="mostafa7arafa" /> </p>
 
-- 🌱 I’m currently learning **Data science using python by IBM**
+- 🌱 I’m currently learning **LLM Fine tuning and RAG applications**
 
 - 💬 Ask me about **Formula student path planning, Machine Learning and CNN**
 
