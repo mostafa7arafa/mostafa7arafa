@@ -5,11 +5,11 @@
 
 - 🌱 I’m currently learning **LLM Fine tuning and RAG applications**
 
-- 💬 Ask me about **Formula student path planning, Machine Learning and CNN**
+- 💬 Ask me about **Formula student path planning, Machine Learning and LLMs**
 
 - 📫 How to reach me **a.mostafa190@gmail.com**
 
-- 📄 Know about my experiences [my cv](https://drive.google.com/file/d/1dciLBjC734VnhTXdf96Mv1LPQCQP4JOM/view?usp=sharing)
+- 📄 Know about my experiences [my cv](https://drive.google.com/file/d/1KC_AWze6dPlki5kxrZkhblATaz-MOZ6R/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
