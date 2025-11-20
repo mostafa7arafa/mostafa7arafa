@@ -5,7 +5,7 @@ I am passionate about building intelligent systems at the intersection of **Data
 
 - 🌱 I’m currently diving deeper into **LLM fine-tuning and advanced RAG applications**.
 - 💬 Ask me about **Data Science, Machine Learning, AI Agents, and n8n workflow design**.
-- 📄 [My CV](https://drive.google.com/file/d/1yTCQxTgAM11hjbLMFg3n-OthkiWptEIt/view?usp=sharing)
+- 📄 [My CV](https://drive.google.com/file/d/1lM5E8S8bUIF_UPOyNCDSttYlvypwD7Ij/view?usp=drivesdk)
 - 📫 You can reach me at: **a.mostafa190@gmail.com**
 
 ---
