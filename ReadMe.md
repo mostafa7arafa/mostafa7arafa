@@ -107,12 +107,3 @@ I have recently completed a comprehensive portfolio of 8 advanced projects. This
 <a href="https://www.hackerrank.com/a_mostafa190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="a_mostafa190" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/mostafa7arafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mostafa7arafa" height="30" width="40" /></a>
 </p>
-
-<br>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mostafa7arafa&show_icons=true&locale=en&layout=compact&theme=dark" alt="mostafa7arafa" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mostafa7arafa&show_icons=true&locale=en&theme=dark" alt="mostafa7arafa" />
-</p>
