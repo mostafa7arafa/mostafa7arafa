@@ -1,109 +1,137 @@
-# Hi, I'm Mostafa Arafa 👋
-## AI Engineer | Data Science & Automation Specialist
+<h1 align="center">Mostafa Arafa</h1>
+<h3 align="center">AI Engineer · Data Science & Automation</h3>
 
-I am passionate about building intelligent systems at the intersection of **Data Science**, **Machine Learning**, and **Process Automation**. My goal is to leverage data-driven insights to create efficient, end-to-end solutions that solve real-world problems. I specialize in using platforms like **n8n** and frameworks like **LangChain** to deploy AI agents, automate complex workflows, and bring data to life.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=58A6FF&center=true&vCenter=true&width=520&lines=Building+production-grade+AI+agents;LangGraph+%7C+LangChain+%7C+DSPy;RAG+%2B+Graph+RAG+pipelines;NL+%E2%86%92+SQL+with+guardrails+%26+observability;Workflow+automation+with+n8n" alt="Typing SVG" />
+</p>
 
-- 🌱 I’m currently diving deeper into **LLM fine-tuning and advanced RAG applications**.
-- 💬 Ask me about **Data Science, Machine Learning, AI Agents, and n8n workflow design**.
-- 📄 [My CV](https://drive.google.com/file/d/1lM5E8S8bUIF_UPOyNCDSttYlvypwD7Ij/view?usp=drivesdk)
-- 📫 You can reach me at: **a.mostafa190@gmail.com**
+<p align="center">
+  I build end-to-end intelligent systems — from stateful LLM agents and RAG pipelines to document processing tools and no-code automation workflows. I care about the details that make agents reliable in production: guardrails, observability, memory, and error handling.
+</p>
 
----
-
-## 🚀 Featured Portfolio: AI & Automation Workflows
-
-I have recently completed a comprehensive portfolio of 8 advanced projects. This repository is the best place to see my skills in action, showcasing my ability to apply **AI, machine learning, and data-driven logic** to build powerful, automated workflows.
-
-### 👉 **[Explore my n8n Workflow Portfolio here](https://github.com/mostafa7arafa/n8n-workflow-portfolio)**
-
-*Highlights from the portfolio include:*
-- **Multi-Agent Systems:** Bots that can autonomously write, evaluate, and revise content.
-- **Human-in-the-Loop (HITL):** Workflows with built-in human approval for quality assurance.
-- **Retrieval-Augmented Generation (RAG):** AI agents that use external knowledge bases (Pinecone) to provide accurate answers.
-- **Complex API Integrations:** Seamless connections with Calendly, Google Workspace, FireCrawl, and more.
+<p align="center">
+  🟢 <strong>Open to work</strong> — AI/ML engineering, AI agent development, or data science roles
+  <br><br>
+  <a href="mailto:a.mostafa190@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/mostafa7arafa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1lM5E8S8bUIF_UPOyNCDSttYlvypwD7Ij/view?usp=drivesdk"><img src="https://img.shields.io/badge/CV-4285F4?style=flat&logo=googledrive&logoColor=white"/></a>
+  <a href="https://kaggle.com/arafa7"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
+  <a href="https://www.leetcode.com/mostafa7arafa"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
+</p>
 
 ---
 
-<h2 align="left">💻 My Tech Stack</h2>
+## 🔧 What I Build
 
-<table width="100%">
-  <tr>
-    <td align="center" width="180">
-      <b>Core Focus</b>
-    </td>
-    <td align="center" width="180">
-      <b>AI / Machine Learning</b>
-    </td>
-    <td align="center" width="180">
-      <b>Databases & Languages</b>
-    </td>
-    <td align="center" width="180">
-      <b>Tools & Platforms</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://n8n.io/" target="_blank"><img src="https://cdn.simpleicons.org/n8n/white" width="48" height="48" alt="n8n" /></a>
-      <br>n8n
-    </td>
-    <td align="center">
-      <a href="https://www.python.org" target="_blank"><img src="https://cdn.simpleicons.org/python/3776AB" width="48" height="48" alt="Python" /></a>
-      <br>Python
-    </td>
-    <td align="center">
-      <a href="https://www.postgresql.org" target="_blank"><img src="https://cdn.simpleicons.org/postgresql/4169E1" width="48" height="48" alt="PostgreSQL" /></a>
-      <br>PostgreSQL
-    </td>
-    <td align="center">
-      <a href="https://git-scm.com/" target="_blank"><img src="https://cdn.simpleicons.org/git/F05032" width="48" height="48" alt="Git" /></a>
-      <br>Git & GitHub
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.langchain.com/" target="_blank"><img src="https://avatars.githubusercontent.com/u/123849298?s=200&v=4" width="48" height="48" alt="LangChain" /></a>
-      <br>LangChain
-    </td>
-    <td align="center">
-      <br>🤖
-      <br>AI Agents
-    </td>
-     <td align="center">
-      <a href="https://www.mysql.com/" target="_blank"><img src="https://cdn.simpleicons.org/mysql/4479A1" width="48" height="48" alt="MySQL" /></a>
-      <br>SQL / MySQL
-    </td>
-    <td align="center">
-      <a href="https://www.docker.com/" target="_blank"><img src="https://cdn.simpleicons.org/docker/2496ED" width="48" height="48" alt="Docker" /></a>
-      <br>Docker
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <a href="https://www.pinecone.io/" target="_blank"><img  src="https://github.com/user-attachments/assets/2161b577-80ae-4bce-bc4f-b5c43b1cdac2"  width="48" height="48" alt="Pinecone" /></a>
-      <br>Pinecone
-    </td>
-    <td align="center">
-      <a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="48" height="48" alt="Scikit-learn" /></a>
-      <br>Scikit-learn
-    </td>
-    <td align="center">
-      <a href="https://isocpp.org/" target="_blank"><img src="https://cdn.simpleicons.org/cplusplus/00599C" width="48" height="48" alt="C++" /></a>
-      <br>C++
-    </td>
-    <td align="center">
-        <a href="https://www.ros.org/" target="_blank"><img src="https://cdn.simpleicons.org/ros/22314E" width="48" height="48" alt="ROS" /></a>
-      <br>ROS
-    </td>
-  </tr>
+<table>
+<tr>
+<td width="50%">
+
+**🤖 Agentic Systems**
+ReAct agents with LangGraph — multi-layer middleware, tool use, rate limiting, and stateful memory (short-term checkpointing + long-term procedural via LangGraph Store)
+
+**🗄️ NL → SQL**
+Natural language to SQL with schema introspection, pre-execution guardrails, PII detection, and DML/DDL blocking
+
+**📄 Document Intelligence**
+Vision LLMs extracting structured data from scanned documents — multi-backend support (cloud + local/offline)
+
+</td>
+<td width="50%">
+
+**🔍 RAG & Graph RAG**
+Retrieval pipelines with Pinecone and knowledge-graph-based retrieval using LightRAG for complex relational queries
+
+**⚙️ LLM Optimization**
+DSPy for auto-tuned prompts and self-correcting query generation pipelines
+
+**🔁 Workflow Automation**
+n8n multi-agent flows with HITL approval loops, RAG integration, and API connections at scale
+
+</td>
+</tr>
 </table>
 
-<br>
+---
 
-## 🔗 Connect with me
+## 🚀 Featured Projects
 
-<p align="left">
-<a href="https://linkedin.com/in/mostafa7arafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mostafa7arafa" height="30" width="40" /></a>
-<a href="https://kaggle.com/arafa7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="arafa7" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/a_mostafa190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="a_mostafa190" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/mostafa7arafa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mostafa7arafa" height="30" width="40" /></a>
+<table>
+<tr>
+<td width="33%">
+
+### 🛒 [Retail Analytics Copilot](https://github.com/mostafa7arafa/retail-analytics-copilot)
+Privacy-first AI agent that answers retail analytics questions by orchestrating RAG and SQL tools.
+Built with **LangGraph** + **DSPy** for stateful reasoning and self-correcting SQL. Runs fully locally.
+
+`LangGraph` `DSPy` `RAG` `SQL` `Python`
+
+</td>
+<td width="33%">
+
+### 📐 [Formula Student Graph RAG Bot](https://github.com/mostafa7arafa/formula-student-graph-rag-bot)
+Answers complex relational questions about FS Germany rules via **Graph RAG (LightRAG)** — builds a knowledge graph from the official PDF rulebook, orchestrated with **n8n**.
+
+`LightRAG` `Graph RAG` `n8n` `TypeScript`
+
+</td>
+<td width="33%">
+
+### ⚡ [n8n Workflow Portfolio](https://github.com/mostafa7arafa/n8n-workflow-portfolio)
+8 production-grade automation workflows: multi-agent systems, HITL approval, RAG with Pinecone, and integrations with Calendly, Google Workspace, FireCrawl, and more.
+
+`n8n` `Pinecone` `RAG` `APIs`
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🛠️ Tech Stack
+
+**Agents & Orchestration**
+
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![DSPy](https://img.shields.io/badge/DSPy-FF6B35?style=for-the-badge&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+
+**Observability & Deployment**
+
+![LangSmith](https://img.shields.io/badge/LangSmith-FF6B35?style=for-the-badge&logoColor=white)
+![LangGraph Cloud](https://img.shields.io/badge/LangGraph_Cloud-1C3C3C?style=for-the-badge&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+**LLMs & APIs**
+
+![Claude](https://img.shields.io/badge/Anthropic_Claude-D97757?style=for-the-badge&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![LM Studio](https://img.shields.io/badge/LM_Studio-8B5CF6?style=for-the-badge&logoColor=white)
+
+**RAG & Vector Search**
+
+![LightRAG](https://img.shields.io/badge/LightRAG-FF6B35?style=for-the-badge&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=for-the-badge&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logoColor=white)
+
+**Databases & Languages**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mostafa7arafa&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" height="165"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa7arafa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="165"/>
 </p>
+
