@@ -132,6 +132,6 @@ Answers complex relational questions about FS Germany rules via **Graph RAG (Lig
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=mostafa7arafa&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165"/>
   &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mostafa7arafa&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800" height="165"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mostafa7arafa&theme=tokyonight" height="165"/>
 </p>
 
