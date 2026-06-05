@@ -13,7 +13,7 @@
   🟢 <strong>Open to work</strong> — AI/ML engineering, AI agent development, or data science roles
   <br><br>
   <a href="mailto:a.mostafa190@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/mostafa7arafa"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mostafa-arafa-ai-developer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
   <a href="https://drive.google.com/file/d/1lM5E8S8bUIF_UPOyNCDSttYlvypwD7Ij/view?usp=drivesdk"><img src="https://img.shields.io/badge/CV-4285F4?style=flat&logo=googledrive&logoColor=white"/></a>
   <a href="https://kaggle.com/arafa7"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
   <a href="https://www.leetcode.com/mostafa7arafa"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
