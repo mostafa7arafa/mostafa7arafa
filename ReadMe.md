@@ -14,7 +14,7 @@
   <br><br>
   <a href="mailto:a.mostafa190@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/mostafa-arafa-ai-developer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://drive.google.com/file/d/1ilQ_EioNv8TTWAvrZza4wXJP2P4RXjSo/view?usp=sharing"><img src="https://img.shields.io/badge/CV-4285F4?style=flat&logo=googledrive&logoColor=white"/></a>
+  <a href="https://drive.google.com/file/d/1L7HHfHKaTSUyJ0YGi86MdRVUR8-ZKof4/view?usp=sharing"><img src="https://img.shields.io/badge/CV-4285F4?style=flat&logo=googledrive&logoColor=white"/></a>
   <a href="https://kaggle.com/arafa7"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white"/></a>
   <a href="https://www.leetcode.com/mostafa7arafa"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white"/></a>
 </p>
