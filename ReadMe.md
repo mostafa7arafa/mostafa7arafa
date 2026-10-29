@@ -58,16 +58,17 @@ n8n multi-agent flows with HITL approval loops, RAG integration, and API connect
 
 <table>
 <tr>
-<td width="33%">
+<td width="50%">
 
-### 🛒 [Retail Analytics Copilot](https://github.com/mostafa7arafa/retail-analytics-copilot)
-Privacy-first AI agent that answers retail analytics questions by orchestrating RAG and SQL tools.
-Built with **LangGraph** + **DSPy** for stateful reasoning and self-correcting SQL. Runs fully locally.
+### 🧭 [Northwind Copilot](https://github.com/mostafa7arafa/northwind-copilot)
+Local-first natural-language-to-SQL agent over the Northwind retail database. Runs on a **local Ollama model** with cloud fallback, served as a **LangGraph** agent and a **FastAPI + Next.js** web app, with a benchmark harness.
 
-`LangGraph` `DSPy` `RAG` `SQL` `Python`
+📈 Local 89.9% vs cloud 90.6% correctness (n=23 conversations, 69 turns) · 98.6% no-hallucination for both · $0 vs ~$9.89 per 1,000 conversations · ~94% test coverage
+
+`LangGraph` `Ollama` `NL→SQL` `FastAPI` `Python`
 
 </td>
-<td width="33%">
+<td width="50%">
 
 ### 📐 [Formula Student Graph RAG Bot](https://github.com/mostafa7arafa/formula-student-graph-rag-bot)
 Answers complex relational questions about FS Germany rules via **Graph RAG (LightRAG)** — builds a knowledge graph from the official PDF rulebook, orchestrated with **n8n**.
@@ -75,12 +76,24 @@ Answers complex relational questions about FS Germany rules via **Graph RAG (Lig
 `LightRAG` `Graph RAG` `n8n` `TypeScript`
 
 </td>
-<td width="33%">
+</tr>
+<tr>
+<td width="50%">
 
 ### ⚡ [n8n Workflow Portfolio](https://github.com/mostafa7arafa/n8n-workflow-portfolio)
 8 production-grade automation workflows: multi-agent systems, HITL approval, RAG with Pinecone, and integrations with Calendly, Google Workspace, FireCrawl, and more.
 
 `n8n` `Pinecone` `RAG` `APIs`
+
+</td>
+<td width="50%">
+
+### 🏠 [Ames Housing Price Prediction](https://github.com/mostafa7arafa/ames-housing-price-prediction)
+End-to-end regression on the Ames, Iowa housing data: EDA, feature selection, preprocessing, and a comparison of three models under 5-fold cross-validation.
+
+📈 R² 0.905 ± 0.027 · MAE ≈ $14.8k
+
+`scikit-learn` `XGBoost` `Pandas` `Python`
 
 </td>
 </tr>
@@ -124,14 +137,3 @@ Answers complex relational questions about FS Germany rules via **Graph RAG (Lig
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge&logo=sqlalchemy&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=mostafa7arafa&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" height="165"/>
-  &nbsp;
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mostafa7arafa&theme=tokyonight" height="165"/>
-</p>
-
